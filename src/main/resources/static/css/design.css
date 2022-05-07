@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+.pagination-div a {
+  color: white;font-size: 20px;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+.pagination-div a:hover:not(.active) {
+
+  background-color: #ddd;
+  border-radius: 5px;
+}
+
+span.selected{background:#292f35;font-size: 20px;}
+.center {text-align: center;}
+
